@@ -1,0 +1,27 @@
+[17-Mar-2022 04:54:39 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 79
+[17-Mar-2022 04:55:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 80
+[17-Mar-2022 04:56:09 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 80
+[17-Mar-2022 04:58:02 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 80
+[17-Mar-2022 04:58:58 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 80
+[17-Mar-2022 04:59:36 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 80
+[17-Mar-2022 04:59:57 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 80
+[17-Mar-2022 05:00:26 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 80
+[17-Mar-2022 05:00:58 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 80
+[17-Mar-2022 05:01:11 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 80
+[17-Mar-2022 05:01:54 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 80
+[17-Mar-2022 05:02:13 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 80
+[17-Mar-2022 05:03:30 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 79
+[17-Mar-2022 05:03:47 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 79
+[17-Mar-2022 05:04:16 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 79
+[17-Mar-2022 05:05:48 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 79
+[17-Mar-2022 05:07:53 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 79
+[17-Mar-2022 05:09:08 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 79
+[17-Mar-2022 05:13:05 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 79
+[17-Mar-2022 05:13:23 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 79
+[23-Mar-2022 09:10:05 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\apicontroller::profile() in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 65
+[29-Mar-2022 14:29:44 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/branchController.php on line 3
+[29-Mar-2022 14:29:56 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/branchController.php on line 3
+[29-Mar-2022 14:30:26 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/branchController.php on line 3
+[29-Mar-2022 14:30:29 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/branchController.php on line 3
+[09-Apr-2022 21:08:38 UTC] PHP Fatal error:  Cannot use Carbon\Carbon as Carbon because the name is already in use in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 12
+[09-Apr-2022 21:13:07 UTC] PHP Fatal error:  Cannot use Carbon\Carbon as Carbon because the name is already in use in /home/r2zcqcj02c6n/public_html/eboard.qubitars.com/app/Http/Controllers/apicontroller.php on line 12
